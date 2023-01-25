@@ -1,1 +1,1 @@
-learn git
+learn python for this month
